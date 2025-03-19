@@ -44,7 +44,7 @@ Este projeto é uma aplicação web simples para organizar e sortear amigos secr
 Você pode acessar o projeto online clicando no link abaixo:
 
 🕹️ [Jogo Amigo Secreto - GitHub](https://github.com/RafaBRZL/amigo-secreto)  
-👉 [Teste a Aplicação Aqui](https://seunome.github.io/projeto)
+👉 [Teste a Aplicação Aqui](https://rafabrzl.github.io/amigo-secreto/)
 
 &nbsp;  
 &nbsp;  
